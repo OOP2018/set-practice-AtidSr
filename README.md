@@ -31,4 +31,4 @@ Answer the questions in the exercises here. Push your answer and code to Github 
   String in set is ordered by alphabet
   
 * Could we make `setExplorer` work with either Set or List?  How?
-  Yes, overide methods that setExplorer call and change parameter to List
+  Yes, create new method that same name as method that setExplorer call and change parameter to List
